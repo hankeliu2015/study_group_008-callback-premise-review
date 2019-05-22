@@ -7,7 +7,7 @@ function apiPromiseAdd(num1, num2) {
     setTimeout(function() {
       const result = num1 + num2
       res(result) //??
-    }, 2000)
+    }, 1000)
   })
 }
 
